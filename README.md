@@ -1,0 +1,2 @@
+# gtnix
+A simple os
